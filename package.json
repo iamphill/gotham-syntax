@@ -1,7 +1,7 @@
 {
   "name": "gotham-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Syntax theme inspired by the vim version of Gotham.",
   "repository": "https://github.com/iamphill/gotham-syntax",
   "license": "MIT",
